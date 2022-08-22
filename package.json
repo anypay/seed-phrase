@@ -1,0 +1,15 @@
+{
+  "name": "seed-phrase",
+  "version": "1.0.0",
+  "description": "CLI to gnerate random bip39 seed phrase",
+  "main": "index.js",
+  "bin": {
+    "seed-phrase": "./index.js"
+  },
+  "keywords": [],
+  "author": "Anypay",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.4"
+  }
+}
